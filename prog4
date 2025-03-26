@@ -1,0 +1,23 @@
+start 
+
+new nomer1 number
+new nomer2 number
+new nomer3 number
+new nomer4 number
+new date1 number
+new date2 number
+new name string
+
+set nomer1 1234
+set nomer2 2345
+set nomer3 3456
+set nomer4 4567
+set date1 04
+set date2 25
+set name "IVAN IVANOV"
+
+
+log number nomer >> nomer1 >> nomer2 >> nomer3 >> nomer4
+log number date1 >> "/" >> date2
+log string name 
+finish
