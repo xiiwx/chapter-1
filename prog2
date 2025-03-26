@@ -1,0 +1,9 @@
+start 
+
+new x string
+set x "F"
+
+log string x
+log string x
+log string x
+log string x
