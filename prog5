@@ -1,0 +1,12 @@
+start
+
+log string "1x1=1"
+log string "1x2=2"
+log string "1x3=3"
+log string "1x4=4"
+log string "1x5=5"
+log string "1x6=6"
+log string "1x7=7"
+log string "1x7=7"
+log string "1x8=8"
+log string "1x9=9"
