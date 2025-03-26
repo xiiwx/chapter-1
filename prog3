@@ -1,0 +1,16 @@
+start 
+
+new a string
+new b string
+new c string
+new d string
+new e string
+set a "B"
+set b "I"
+set c "N"
+set d "G"
+set e "O"
+
+log string a >> "-" >> b >> "-" >> c >> "-" >> d >> "-" >> e 
+
+finish
